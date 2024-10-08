@@ -5,7 +5,7 @@
       <img src="/mailbox-icon.svg" alt="Mailbox icon" class="w-20 h-20 mx-auto mb-4">
       <h2 class="text-xl font-semibold mb-2">You have no mailboxes connected at this time.</h2>
       <p class="text-gray-600 mb-6">Connect a mailbox using the buttons below.</p>
-      <div class="flex justify-center space-x-4">
+      <div class="flex justify-center flex-col-reverse md:flex-row gap-2 md:gap-4">
         <button class="bg-white text-gray-700 border border-gray-300 px-4 py-2 rounded-md hover:bg-gray-50 flex items-center">
           <InboxIcon class="w-5 h-5 mr-2" />
           Connect IMAP

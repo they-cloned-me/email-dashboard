@@ -24,12 +24,12 @@ const menuItems = [
         </li>
       </ul>
     </nav>
-    <div class="absolute bottom-0 left-0 right-0 p-4">
+    <div class="absolute bottom-16 left-0 right-0 p-4">
       <div class="flex items-center space-x-3">
         <img src="https://i.pravatar.cc/40?img=8" alt="User avatar" class="w-10 h-10 rounded-full">
         <div>
           <p class="font-semibold">James Arnold</p>
-          <p class="text-sm text-gray-500">Account Settings</p>
+          <p class="text-xs text-gray-500">Account Settings</p>
         </div>
       </div>
     </div>
